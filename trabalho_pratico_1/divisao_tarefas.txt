@@ -1,0 +1,5 @@
+Documento: Ryan Lopes, Ryan Pimentel
+Diagrama de Entidade-Relacionamento: Ryan Pimentel, Ryan Lopes
+Estrutura Diagrama Relacional: Ryan Pimentel, Ryan Lopes, Guilherme Marques
+Relações Diagrama Relacional: Ryan Pimentel, Guilherme Marques
+Normalização: Ryan Pimentel, Ryan Lopes

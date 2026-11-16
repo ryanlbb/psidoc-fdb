@@ -1,0 +1,23 @@
+Equipe:
+1. Ryan Levy Bizerra Pimentel (582277)
+2. Ryan Lopes Braga Brito (578267)
+3. Guilherme Marques Ramos de Souza (580992)
+
+Divisão de tarefas:
+
+1. Ryan Pimentel:
+- Criação dos ENUMs para padronização de dados clínicos e administrativos
+- Povoamento e consistência do banco de dados
+- Consultas de negócio e fluxo de atendimento, para pacientes sem prontuário, histórico de sessões e menores de idade
+
+2. Ryan Lopes:
+- Estruturação do esquema e tabelas fundamentais de atendimento
+- Definição de  chaves primárias, estrangeiras
+- Configuração de segurança e usuários do banco, roles psidoc_admin e psidoc_leitor
+- Consultas operacionais e relatórios com múltiplos joins
+
+3. Guilherme Marques:
+- Regras de integridade ativas via PL/pgSQL
+- Criação de índices parciais e de busca para controle de concorrência e otimização de consultas
+- Criação das visões sistema
+- Consultas analíticas com subqueries e agregação condicional
